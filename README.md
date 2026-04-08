@@ -59,24 +59,25 @@ Walk-forward backtest — trained on past data only, tested on completely unseen
 
 ## 🧠 Model Architecture
 
+```
 ┌─────────────────────────────────────────────────────┐
 │         DATA LAYER (1,073 matches)                  │
 │  Cricsheet JSON (2008–2026) + Kaggle Pitch Data      │
 └──────────────────────┬──────────────────────────────┘
-│
+                       │
 ┌──────────────────────▼──────────────────────────────┐
 │         FEATURE ENGINEERING (49 features)            │
 │  Elo Ratings │ Phase Stats │ Pitch Type │ Form       │
 │  H2H │ Venue │ Run Margins │ Win Streak │ Toss       │
 └──────────────────────┬──────────────────────────────┘
-│
+                       │
 ┌──────────────────────▼──────────────────────────────┐
 │              ENSEMBLE MODEL                          │
 │  XGBoost (50%) + Logistic Regression (25%)           │
 │  + Random Forest (25%)                               │
 │  CV Accuracy: 55% │ Walk-forward: 52–55%             │
 └──────────────────────┬──────────────────────────────┘
-│
+                       │
 ┌──────────────────────▼──────────────────────────────┐
 │       MONTE CARLO SIMULATION (2,000 runs)            │
 │  57 remaining matches × 2,000 seasons simulated      │
@@ -84,14 +85,13 @@ Walk-forward backtest — trained on past data only, tested on completely unseen
 │  Injury adjustments applied per team                 │
 │  Probability smoothing to prevent overconfidence     │
 └──────────────────────┬──────────────────────────────┘
-│
+                       │
 ┌──────────────────────▼──────────────────────────────┐
 │                  PREDICTIONS                         │
 │  Championship % │ Playoff % │ Points Distribution   │
 │  Orange Cap │ Purple Cap │ P10–P90 Uncertainty Ranges│
 └─────────────────────────────────────────────────────┘
-
----
+```
 
 ## 🔧 Feature Engineering — 49 Features Across 7 Categories
 
@@ -118,6 +118,8 @@ Walk-forward backtest — trained on past data only, tested on completely unseen
 ---
 
 ## 📁 Project Structure
+
+```
 IPL project/
 ├── data/
 │   ├── raw/                  ← 1,175 Cricsheet JSON + Kaggle pitch data
@@ -142,8 +144,7 @@ IPL project/
 ├── app.py                    ← Streamlit interactive dashboard
 ├── run_pipeline.py           ← One-click full pipeline runner
 └── README.md
-
----
+```
 
 ## ⚡ Quick Start
 
