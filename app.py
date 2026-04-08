@@ -404,27 +404,25 @@ def main():
     # Row 1 — Championship + Playoff
     col1, col2 = st.columns(2)
     with col1:
-        st.plotly_chart(chart_championship(results),
-                        use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
     with col2:
-        st.plotly_chart(chart_playoff(results),
-                        use_container_width=True)
+        st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
 
     # Row 2 — Points distribution
     st.plotly_chart(chart_distribution(all_pts, results),
-                    use_container_width=True)
+                    use_container_width=True, config={'displayModeBar': False})
 
     # Row 3 — Cap predictions
     st.markdown("<div class='section-header'>🏅 Player Projections</div>",
                 unsafe_allow_html=True)
     st.plotly_chart(chart_caps(top_bat, top_bowl),
-                    use_container_width=True)
+                    use_container_width=True, config={'displayModeBar': False})
 
     # Row 4 — Validation
     st.markdown("<div class='section-header'>📊 Model Validation</div>",
                 unsafe_allow_html=True)
     st.plotly_chart(chart_validation(backtest, baseline),
-                    use_container_width=True)
+                    use_container_width=True, config={'displayModeBar': False})
 
     # Row 5 — Raw data tables
     with st.expander("📋 View Raw Prediction Data"):
@@ -440,19 +438,19 @@ def main():
                 "avg_final_pts": "{:.1f}",
                 "pts_p10": "{:.0f}",
                 "pts_p90": "{:.0f}",
-            }), use_container_width=True)
+            }), use_container_width=True, config={'displayModeBar': False})
         with tab2:
             st.dataframe(top_bat[[
                 "player", "team", "runs",
                 "projected_runs_mean",
                 "projected_runs_low", "projected_runs_high"
-            ]], use_container_width=True)
+            ]], use_container_width=True, config={'displayModeBar': False})
         with tab3:
             st.dataframe(top_bowl[[
                 "player", "team", "wickets",
                 "projected_wickets_mean",
                 "projected_wickets_low", "projected_wickets_high"
-            ]], use_container_width=True)
+            ]], use_container_width=True, config={'displayModeBar': False})
 
     # Footer
     st.markdown("---")
