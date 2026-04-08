@@ -1,0 +1,14 @@
+match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match,result
+2026001,2026,2026-03-28,M Chinnaswamy Stadium,SRH,RCB,RCB,field,RCB,0,0,Devdutt Padikkal,normal
+2026002,2026,2026-03-29,Eden Gardens,KKR,MI,MI,field,MI,0,0,Rohit Sharma,normal
+2026003,2026,2026-03-30,MA Chidambaram Stadium,CSK,RR,RR,field,RR,0,0,Ravi Bishnoi,normal
+2026004,2026,2026-03-31,Narendra Modi Stadium,GT,PBKS,PBKS,field,PBKS,0,0,Cooper Connolly,normal
+2026005,2026,2026-04-01,BRSABV Ekana Cricket Stadium,LSG,DC,DC,field,DC,0,0,Sameer Rizvi,normal
+2026006,2026,2026-04-02,Rajiv Gandhi International Cricket Stadium,SRH,KKR,SRH,bat,SRH,0,0,Ishan Kishan,normal
+2026007,2026,2026-04-03,MA Chidambaram Stadium,CSK,PBKS,PBKS,field,PBKS,0,0,V Vyshak,normal
+2026008,2026,2026-04-04,Wankhede Stadium,MI,DC,DC,field,DC,0,0,Sameer Rizvi,normal
+2026009,2026,2026-04-05,ACA Stadium,RR,GT,RR,bat,RR,0,0,Riyan Parag,normal
+2026010,2026,2026-04-05,Rajiv Gandhi International Cricket Stadium,SRH,LSG,LSG,field,LSG,0,0,Prince Yadav,normal
+2026011,2026,2026-04-06,M Chinnaswamy Stadium,RCB,CSK,RCB,bat,RCB,43,0,Virat Kohli,normal
+2026012,2026,2026-04-06,Eden Gardens,KKR,PBKS,KKR,bat,NR,0,0,,no result
+2026013,2026,2026-04-07,ACA Stadium,RR,MI,RR,bat,RR,0,8,Riyan Parag,normal

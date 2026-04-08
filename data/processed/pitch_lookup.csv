@@ -1,0 +1,345 @@
+match_id,date,pitch_type,dew_prediction,grass_cover,moisture,bounce_and_carry,pitch_type_code,is_spin_pitch,is_batting_pitch,is_sluggish,dew_risk
+1216492,2020-09-19,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216493,2020-09-20,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216494,2020-10-21,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216495,2020-11-03,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216496,2020-09-22,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216497,2020-10-24,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216498,2020-10-24,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216499,2020-10-28,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216500,2020-10-09,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216501,2020-10-07,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216502,2020-10-31,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216503,2020-10-01,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216504,2020-09-30,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216505,2020-11-02,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216506,2020-11-01,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216507,2020-10-11,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216508,2020-09-23,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216509,2020-10-17,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216510,2020-09-24,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216511,2020-10-06,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216512,2020-10-18,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216513,2020-10-04,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216514,2020-10-03,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216515,2020-10-03,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216516,2020-10-02,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216517,2020-10-18,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216518,2020-10-22,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216519,2020-10-05,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216520,2020-10-26,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216521,2020-10-23,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216522,2020-10-17,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216523,2020-10-10,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216524,2020-10-27,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216525,2020-10-10,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216526,2020-10-16,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216527,2020-09-27,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216528,2020-10-13,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216529,2020-10-11,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216530,2020-11-01,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216531,2020-10-15,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216532,2020-09-29,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216533,2020-10-19,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216534,2020-09-21,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216535,2020-10-31,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216536,2020-10-29,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216537,2020-10-30,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216538,2020-10-04,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216539,2020-09-25,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216540,2020-10-12,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1216541,2020-10-25,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216542,2020-10-08,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216543,2020-10-14,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216544,2020-10-25,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216545,2020-09-26,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1216546,2020-10-20,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1216547,2020-09-28,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1237177,2020-11-05,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1237178,2020-11-06,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1237180,2020-11-08,Sluggish,High,Low,Low,Sluggish,3,0,0,1,2.0
+1237181,2020-11-10,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254058,2021-04-09,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254059,2021-04-10,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254060,2021-04-11,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254061,2021-04-12,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254062,2021-04-13,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254063,2021-04-14,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254064,2021-04-15,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254065,2021-04-16,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254066,2021-04-17,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254067,2021-04-18,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254068,2021-04-18,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254069,2021-04-19,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254070,2021-04-20,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254071,2021-04-21,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254072,2021-04-21,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254073,2021-04-22,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254074,2021-04-23,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254075,2021-04-24,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254076,2021-04-25,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254077,2021-04-25,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1254078,2021-04-26,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254079,2021-04-27,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254080,2021-04-28,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1254081,2021-04-29,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1254082,2021-04-29,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254083,2021-04-30,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254084,2021-05-01,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1254085,2021-05-02,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1254086,2021-05-02,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1254087,2021-09-20,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254088,2021-10-08,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254089,2021-10-02,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254090,2021-10-03,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254091,2021-09-30,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254092,2021-09-28,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254093,2021-10-05,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254094,2021-10-07,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254095,2021-10-06,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254096,2021-09-23,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254097,2021-09-25,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254098,2021-09-26,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254099,2021-09-28,Batting-friendly,High,Medium,Medium,True bounce,0,0,1,0,2.0
+1254100,2021-09-27,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254101,2021-10-08,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254102,2021-10-01,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254103,2021-09-29,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254104,2021-09-19,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254105,2021-09-22,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254106,2021-10-07,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254107,2021-09-25,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254108,2021-09-26,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254109,2021-10-03,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254110,2021-10-04,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254111,2021-09-21,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254112,2021-10-02,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254113,2021-09-24,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254114,2021-10-10,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1254115,2021-10-11,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254116,2021-10-13,Batting-friendly,Moderate,Low,Low,Low,0,0,1,0,0.0
+1254117,2021-10-15,Balanced,High,Medium,Low,True bounce,1,0,0,0,2.0
+1304047,2022-03-26,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304048,2022-03-27,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304049,2022-03-27,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304050,2022-03-28,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304051,2022-03-29,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304052,2022-03-30,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304053,2022-03-31,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304054,2022-04-01,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304055,2022-04-02,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304056,2022-04-02,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304057,2022-04-03,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304058,2022-04-04,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304059,2022-04-05,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304060,2022-04-06,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304061,2022-04-07,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304062,2022-04-08,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304063,2022-04-09,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304064,2022-04-09,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304065,2022-04-10,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304066,2022-04-10,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304067,2022-04-11,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304068,2022-04-12,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304069,2022-04-13,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304070,2022-04-14,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304071,2022-04-15,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304072,2022-04-16,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304073,2022-04-16,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304074,2022-04-17,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304075,2022-04-17,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304076,2022-04-18,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304077,2022-04-19,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304078,2022-04-20,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304079,2022-04-21,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304080,2022-04-22,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304081,2022-04-23,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304082,2022-04-23,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304083,2022-04-24,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304084,2022-04-25,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304085,2022-04-26,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304086,2022-04-27,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304087,2022-04-28,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304088,2022-04-29,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304089,2022-04-30,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304090,2022-04-30,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304091,2022-05-01,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304092,2022-05-01,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304093,2022-05-02,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304094,2022-05-03,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304095,2022-05-04,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304096,2022-05-05,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304097,2022-05-06,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304098,2022-05-07,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304099,2022-05-07,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304100,2022-05-08,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304101,2022-05-08,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304102,2022-05-09,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304103,2022-05-10,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304104,2022-05-11,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304105,2022-05-12,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304106,2022-05-13,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304107,2022-05-14,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1304108,2022-05-15,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304109,2022-05-15,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304110,2022-05-16,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304111,2022-05-17,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304112,2022-05-18,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304113,2022-05-19,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304114,2022-05-20,Batting-friendly,Moderate,Medium,Medium,True bounce,0,0,1,0,0.0
+1304115,2022-05-21,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1304116,2022-05-22,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1312197,2022-05-24,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1312198,2022-05-25,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1312199,2022-05-27,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1312200,2022-05-29,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359475,2023-03-31,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359476,2023-04-01,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359477,2023-04-01,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359478,2023-04-02,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359479,2023-04-02,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359480,2023-04-03,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359481,2023-04-04,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359482,2023-04-05,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359483,2023-04-06,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359484,2023-04-07,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359485,2023-04-08,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359486,2023-04-08,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359487,2023-04-09,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359488,2023-04-09,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359489,2023-04-10,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359490,2023-04-11,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359491,2023-04-12,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359492,2023-04-13,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359493,2023-04-14,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359494,2023-04-15,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359495,2023-04-15,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359496,2023-04-16,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359497,2023-04-16,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359498,2023-04-17,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359499,2023-04-18,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359500,2023-04-19,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359501,2023-04-20,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359502,2023-04-20,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359503,2023-04-21,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359504,2023-04-22,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359505,2023-04-22,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359506,2023-04-23,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359507,2023-04-23,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359508,2023-04-24,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359509,2023-04-25,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359510,2023-04-26,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359511,2023-04-27,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359512,2023-04-28,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359513,2023-04-29,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359514,2023-04-29,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359515,2023-04-30,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359516,2023-04-30,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359517,2023-05-01,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359518,2023-05-02,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359519,2023-05-03,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359520,2023-05-03,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359521,2023-05-04,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359522,2023-05-05,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359523,2023-05-06,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359524,2023-05-06,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359525,2023-05-07,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359526,2023-05-07,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359527,2023-05-08,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359528,2023-05-09,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359529,2023-05-10,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359530,2023-05-11,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359531,2023-05-12,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359532,2023-05-13,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359533,2023-05-13,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359534,2023-05-14,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359535,2023-05-14,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1359536,2023-05-15,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359537,2023-05-16,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359538,2023-05-17,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359539,2023-05-18,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359540,2023-05-19,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359541,2023-05-20,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359542,2023-05-20,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1359543,2023-05-21,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1359544,2023-05-21,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1370350,2023-05-23,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1370351,2023-05-24,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1370352,2023-05-26,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1370353,2023-05-29,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422119,2024-03-22,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1422120,2024-03-23,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422121,2024-03-23,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422122,2024-03-24,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422123,2024-03-24,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422124,2024-03-25,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422125,2024-03-26,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1422126,2024-03-27,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422127,2024-03-28,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422128,2024-03-29,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422129,2024-03-30,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422130,2024-03-31,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422131,2024-03-31,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422132,2024-04-01,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422133,2024-04-02,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422134,2024-04-03,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422135,2024-04-04,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422136,2024-04-05,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422137,2024-04-06,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1422138,2024-04-07,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1422139,2024-04-07,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426260,2024-04-08,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1426261,2024-04-09,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426262,2024-04-10,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426263,2024-04-11,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426264,2024-04-12,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426265,2024-04-13,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426266,2024-04-14,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426267,2024-04-14,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426268,2024-04-15,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426269,2024-04-16,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426270,2024-04-17,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426271,2024-04-18,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426272,2024-04-19,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426273,2024-04-20,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426274,2024-04-21,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426275,2024-04-21,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426276,2024-04-22,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426277,2024-04-23,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1426278,2024-04-24,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426279,2024-04-25,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426280,2024-04-26,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426281,2024-04-27,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426282,2024-04-27,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426283,2024-04-28,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426284,2024-04-28,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1426285,2024-04-29,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426286,2024-04-30,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426287,2024-05-01,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1426288,2024-05-02,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426289,2024-05-03,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426290,2024-05-04,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426291,2024-05-05,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426292,2024-05-05,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426293,2024-05-06,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426294,2024-05-07,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426295,2024-05-08,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426296,2024-05-09,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426297,2024-05-10,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426298,2024-05-11,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426299,2024-05-12,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1426300,2024-05-12,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426302,2024-05-14,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426303,2024-05-15,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426305,2024-05-17,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426306,2024-05-18,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426307,2024-05-19,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1426309,2024-05-21,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426310,2024-05-22,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0
+1426311,2024-05-24,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1426312,2024-05-26,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1473438,2025-03-22,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1473439,2025-03-23,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1473440,2025-03-23,Spin-friendly,Low,Low,Low,Low,2,1,0,0,0.0
+1473441,2025-03-24,Balanced,Moderate,Medium,Medium,Consistent,1,0,0,0,0.0
+1473442,2025-03-25,Batting-friendly,High,Low,Low,True bounce,0,0,1,0,2.0

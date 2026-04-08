@@ -1,0 +1,4 @@
+player,team,matches,runs,balls_faced,fours,sixes,average,strike_rate,projected_runs_mean,projected_runs_low,projected_runs_high
+Sameer Rizvi,DC,2,160,86,12,10,80.0,186.04,814,717,911
+Rohit Sharma,MI,2,113,70,10,6,56.5,161.42,610,535,685
+Devdutt Padikkal,RCB,2,111,72,9,5,55.5,154.16,600,526,679

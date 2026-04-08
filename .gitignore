@@ -1,0 +1,11 @@
+data/raw/*.json
+data/raw/*.xlsx
+data/raw/*.csv
+data/processed/deliveries.csv
+data/processed/matches.csv
+data/processed/batting.csv
+data/processed/bowling.csv
+__pycache__/
+*.pyc
+.env
+*.pkl
