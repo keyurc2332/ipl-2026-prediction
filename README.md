@@ -1,5 +1,7 @@
 # 🏏 IPL 2026 Winner Prediction — ML + Monte Carlo Simulation
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-2026-prediction.streamlit.app)
+
 > Predicts the **IPL 2026 Champion**, **Top 3 Orange Cap** and **Top 3 Purple Cap** contenders using machine learning trained on 18 seasons of ball-by-ball IPL data.
 
 ![Dashboard](outputs/charts/dashboard.png)
