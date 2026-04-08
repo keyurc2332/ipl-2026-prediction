@@ -402,11 +402,22 @@ def main():
     render_kpis(results, backtest)
 
     # Row 1 — Championship + Playoff
-    col1, col2 = st.columns(2)
+    is_mobile = st.sidebar.checkbox("📱 Mobile View", value=False)
+
+    if is_mobile:
+        col1 = st.container()
+        col2 = st.container()
+    else:
+        col1, col2 = st.columns(2)
+
+    champ_fig = chart_championship(results)
+    playoff_fig = chart_playoff(results)
+
     with col1:
-        st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
+        st.plotly_chart(champ_fig, use_container_width=True, config={'displayModeBar': False})
+
     with col2:
-        st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
+        st.plotly_chart(playoff_fig, use_container_width=True, config={'displayModeBar': False})
 
     # Row 2 — Points distribution
     st.plotly_chart(chart_distribution(all_pts, results),
@@ -438,19 +449,21 @@ def main():
                 "avg_final_pts": "{:.1f}",
                 "pts_p10": "{:.0f}",
                 "pts_p90": "{:.0f}",
-            }), use_container_width=True, config={'displayModeBar': False})
+            }), use_container_width=True)
+
         with tab2:
             st.dataframe(top_bat[[
                 "player", "team", "runs",
                 "projected_runs_mean",
                 "projected_runs_low", "projected_runs_high"
-            ]], use_container_width=True, config={'displayModeBar': False})
+            ]], use_container_width=True)
+
         with tab3:
             st.dataframe(top_bowl[[
                 "player", "team", "wickets",
                 "projected_wickets_mean",
                 "projected_wickets_low", "projected_wickets_high"
-            ]], use_container_width=True, config={'displayModeBar': False})
+            ]], use_container_width=True)
 
     # Footer
     st.markdown("---")
